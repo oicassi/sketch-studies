@@ -52,7 +52,6 @@ const sketch = ({ context, width, height }) => {
       agent.update();
       agent.draw(context);
       agent.bounce(width, height);
-      // agent.wrap(width, height);
     });
   };
 };
