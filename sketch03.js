@@ -98,7 +98,6 @@ class Agent {
   };
 
   draw = (context) => {
-    // context.strokeStyle = '#44982d';
     context.fillStyle = '#161d23';
     context.lineWidth = 4;
 
