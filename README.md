@@ -36,7 +36,7 @@ npm install
 canvas-sketch <name-of-the-sketch.js> --open
 
 # b) Using npm start
-npm start <name-of-the-sketch.js> --open
+npm start <name-of-the-sketch.js> -- --open
 
 # The flag --open automatically opens the browser on the port that the
 # app is being served
